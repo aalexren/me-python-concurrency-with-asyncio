@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "pcwa"
+version = "0.1.0"
+description = ""
+authors = ["aalexren <chernicaar@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+aiohttp = "3.8.2"
+asyncpg = "^0.27.0"
+requests = "^2.31.0"
+flask = "^2.3.2"
+gunicorn = "^20.1.0"
+psycopg2-binary = "^2.9.6"
+uvicorn = "^0.22.0"
+starlette = "^0.28.0"
+websockets = "^11.0.3"
+django = "^4.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
