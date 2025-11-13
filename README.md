@@ -2,4 +2,4 @@
 [Book] Python Concurrency With Asyncio by Matthew Fowler
 
 
-### [Google Docs notes is here 🤌](https://github.com/aalexren/me-python-concurrency-with-asyncio/blob/master/notes.pdf)
+### [Google Docs notes is here 🤌](https://docs.google.com/document/d/1XFszQ20J5-Jvu14cGdlr-1Whusqbci1Ey8dUyP_dExc/edit?usp=sharing)
